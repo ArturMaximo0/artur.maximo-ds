@@ -2,7 +2,7 @@ echo OFF
 
 echo --- Preparar aquivos para Subir ----
 
-git add 
+git add .
 
 
 echo --- Mensagem para Deus ----
